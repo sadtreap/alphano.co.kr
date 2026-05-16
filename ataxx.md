@@ -78,7 +78,7 @@ AI 모델을 구상하면서 여러 선택지를 고민했다.
 > **2025. 11. 08. 오후 05:39:10**
 
 1. **sample3의 패배가 확정되었음에도 무의미한 수를 반복하는것으로 보아, sample3에 엔드게임 완전탐색이 없는것으로 추측됐다.**
-https://github.com/sadtreap/alphano-writeup/blob/main/result.json
+https://github.com/sadtreap/alphano.co.kr/blob/main/ataxx_result.json
 
 2. **시간분배 전략을 크게 4가지로 나눠서 내부적으로 테스트 해봤는데 결과는 다음과 같다.**
 
